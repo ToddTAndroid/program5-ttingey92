@@ -1,9 +1,14 @@
-# Program # X
-Name:  
-Cosc 5730 or 4730
+# Program # 5
+Name:  Todd Tingey
+Cosc 4730
 
-Description:  (how to run the program, phone/emulator screen size, android version ie 7.0)
+Description:  
+
+	Run the app and use the previous program to add, edit, and delete transaction values and categories.
+
+	Phone: Samsung Galaxy Note 5, 5.7"(Marshmallow 6.0.1)
 
 Anything that doesn't work:
-
+	
+	Everything is working apart from a random cursor error with my spinner which Ward said is acceptable 
 
